@@ -1,0 +1,11 @@
+{
+  "name": "projeto-codigo-sujo-js",
+  "version": "1.0.0",
+  "description": "Projeto para trabalho de Código Limpo em Engenharia de Software II",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
